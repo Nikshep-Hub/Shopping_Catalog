@@ -42,4 +42,9 @@ else:
     st.write("No details found for the selected option.")
 
 
+# Close cursor and connection
+my_cur.close()
+my_cnx.close()
+
+
 
