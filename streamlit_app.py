@@ -1,6 +1,7 @@
 import streamlit
 import snowflake.connector
 import pandas
+from streamlit_option_menu import option_menu
 
 streamlit.title('Zena\'s Amazing Athleisure Catalog')
 # connect to snowflake
