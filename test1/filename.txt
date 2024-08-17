@@ -1,0 +1,6 @@
+hello 
+hello
+no 
+yes
+no
+none
