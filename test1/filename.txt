@@ -4,3 +4,4 @@ no
 yes
 no
 none
+YES\no
